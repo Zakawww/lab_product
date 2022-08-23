@@ -4,7 +4,7 @@
   "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$320000$Nxj3UI66XJ95U5Z2h94JW1$tA1KV/LwZlntDAcSeGB8riDS2YofDc+jkz9f+Jh7fqI=",
-    "last_login": "2022-08-03T09:01:44.789Z",
+    "last_login": "2022-08-23T04:25:53.603Z",
     "is_superuser": true,
     "username": "admin",
     "first_name": "",
@@ -13,6 +13,24 @@
     "is_staff": true,
     "is_active": true,
     "date_joined": "2022-08-03T08:54:09.890Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$320000$dJpvDq5oNY3qszgbkbSLed$YDW8TfQjlTQi15uO1hYBDITPRsE7oSMcwcBsib2dJIc=",
+    "last_login": "2022-08-23T04:23:51.243Z",
+    "is_superuser": false,
+    "username": "manager",
+    "first_name": "ww",
+    "last_name": "sss",
+    "email": "zaka_333@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-08-23T04:23:50.514Z",
     "groups": [],
     "user_permissions": []
   }
